@@ -1,7 +1,0 @@
-twitchio~=2.10
-ollama~=0.3
-requests~=2.32
-python-dotenv~=1.0
-PyYAML~=6.0
-sounddevice~=0.4
-soundfile~=0.12
